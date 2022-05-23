@@ -4,17 +4,17 @@
 
 ### Purpose
 
-Explain the strengths and weaknesses of JavaScript "standard" and JavaScript version ES6+.
+1. Explain the strengths and weaknesses of JavaScript "standard" and JavaScript version ES6+.
 
-Describe JavaScript syntax and ideal use cases.
+2. Describe JavaScript syntax and ideal use cases.
 
-Build and deploy JavaScript functions, including built-in functions.
+3. Build and deploy JavaScript functions, including built-in functions.
 
-Convert JavaScript functions to arrow functions.
+4. Convert JavaScript functions to arrow functions.
 
-Build and deploy forEach (JavaScript for loop).
+5. Build and deploy forEach (JavaScript for loop).
 
-Create, populate, and dynamically filter a table using JavaScript and HTML
+6. Create, populate, and dynamically filter a table using JavaScript and HTML
 
 ## Overview
 
